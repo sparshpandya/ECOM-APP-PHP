@@ -1,0 +1,78 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Card Styles */
+.card {
+    margin-top: 20px;
+}
+
+/* Footer */
+.footer {
+    margin-top: 40px;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.footer-section {
+    padding: 20px;
+}
+
+.footer h5 {
+    font-weight: bold;
+}
+
+.footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Cart and Checkout */
+.cart-item {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.cart-item img {
+    max-width: 100px;
+}
+
+.cart-item .product-details {
+    flex: 1;
+}
+
+.cart-item .actions {
+    text-align: right;
+}
+
+.cart-buttons, .buttons {
+    margin-top: 20px;
+    text-align: right;
+}
+
+/* Specific Page Styles */
+.welcome-message, .confirm-details, .values-section {
+    margin-top: 40px;
+}
+
+.text-center {
+    text-align: center;
+}
